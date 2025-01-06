@@ -6,3 +6,4 @@ yolov5
 git-lfs
 kagglehub
 transformers
+yolov8
