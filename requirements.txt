@@ -7,3 +7,5 @@ git-lfs
 kagglehub
 transformers
 yolov8
+keras
+tensorflow
