@@ -9,3 +9,10 @@ transformers
 yolov8
 keras
 tensorflow
+gdown
+tensorboardX
+lmdb
+einops
+nbformat
+nbconvert
+jupyter
